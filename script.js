@@ -155,10 +155,10 @@ function sendmessage() {
 
     Email.send({
         Host: "smtp.gmail.com",
-        Username: "yubarajsubediofficial@gmail.com",
-        Password: "ikvzdulkwtpcmjmf",
-        To: 'yubarajsubediofficial@gmail.com',
-        From: "yubarajsubediofficial@gmail.com",
+        Username: "subediyubaraj9@gmail.com",
+        Password: "vfepqrasardymwqq",
+        To: 'subediyubaraj9@gmail.com',
+        From: "subediyubaraj9@gmail.com",
         Subject: "WEB message From:" + name + " Email:" + email,
         Body: Body
     }).then(
@@ -197,10 +197,10 @@ function hire() {
 
     Email.send({
         Host: "smtp.gmail.com",
-        Username: "yubarajsubediofficial@gmail.com",
-        Password: "ikvzdulkwtpcmjmf",
-        To: 'yubarajsubediofficial@gmail.com',
-        From: "yubarajsubediofficial@gmail.com",
+        Username: "subediyubaraj9@gmail.com",
+        Password: "vfepqrasardymwqq",
+        To: 'subediyubaraj9@gmail.com',
+        From: "subediyubaraj9@gmail.com",
         Subject: name + " Wants to Hire",
         Body: Body
     }).then(
