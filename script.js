@@ -251,7 +251,8 @@ document.addEventListener('mousemove', function (e) {
 
     var x = e.clientX;
     var y = e.clientY;
-    wannahire.style.top = y + "px";
-    wannahire.style.left = x + "px";
+    wannahire.style.left = (x + 0) + "px";
+    wannahire.style.top = (y + 0) + "px";
+
 
 });
