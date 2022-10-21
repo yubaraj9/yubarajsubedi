@@ -157,7 +157,7 @@ function sendmessage() {
         Host: "smtp.gmail.com",
         Username: "subediyubaraj9@gmail.com",
         Password: "vfepqrasardymwqq",
-        To: 'subediyubaraj9@gmail.com',
+        To: "subediyubaraj9@gmail.com",
         From: "subediyubaraj9@gmail.com",
         Subject: "WEB message From:" + name + " Email:" + email,
         Body: Body
@@ -199,7 +199,7 @@ function hire() {
         Host: "smtp.gmail.com",
         Username: "subediyubaraj9@gmail.com",
         Password: "vfepqrasardymwqq",
-        To: 'subediyubaraj9@gmail.com',
+        To: "subediyubaraj9@gmail.com",
         From: "subediyubaraj9@gmail.com",
         Subject: name + " Wants to Hire",
         Body: Body
