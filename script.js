@@ -139,6 +139,7 @@ $(window).scroll(function () {
     }
 
 });
+const nodemailer = require('nodemailer');
 
 // email for message sending
 function sendmessage() {
